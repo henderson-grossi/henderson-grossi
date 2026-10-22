@@ -11,7 +11,13 @@
 
 <img alt="Painel de apresentação de Henderson Lerio Grossi" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-panel.pt.svg" width="100%">
 
-<br><br>
+<br>
+
+Estudante de Análise e Desenvolvimento de Sistemas na UNIFEOB, no período noturno, com foco em desenvolvimento full stack.<br>
+Trabalho com Flutter, React, Node.js e MySQL, do banco de dados à interface.<br>
+Busco estágio em desenvolvimento de software e estou aberto a projetos em equipe e código aberto.
+
+<br>
 
 <img alt="Calendário de contribuições" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-calendar.pt.svg" width="100%">
 

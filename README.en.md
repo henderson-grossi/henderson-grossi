@@ -11,7 +11,13 @@
 
 <img alt="Introduction panel of Henderson Lerio Grossi" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-panel.en.svg" width="100%">
 
-<br><br>
+<br>
+
+Systems Analysis and Development student at UNIFEOB, in the evening program, focused on full stack development.<br>
+I work with Flutter, React, Node.js and MySQL, from the database to the interface.<br>
+I am looking for a software development internship and I am open to team projects and open source.
+
+<br>
 
 <img alt="Contribution calendar" src="https://raw.githubusercontent.com/henderson-grossi/Henders0976/output/github-calendar.en.svg" width="100%">
 
